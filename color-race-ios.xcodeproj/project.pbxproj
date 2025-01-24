@@ -1,0 +1,669 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		501DD1292D422A25000DFEFC /* orange.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1222D422A25000DFEFC /* orange.mp3 */; };
+		501DD12A2D422A25000DFEFC /* blue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11F2D422A25000DFEFC /* blue.mp3 */; };
+		501DD12B2D422A25000DFEFC /* pravilno.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1232D422A25000DFEFC /* pravilno.mp3 */; };
+		501DD12C2D422A25000DFEFC /* red.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1242D422A25000DFEFC /* red.mp3 */; };
+		501DD12D2D422A25000DFEFC /* white.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1262D422A25000DFEFC /* white.mp3 */; };
+		501DD12E2D422A25000DFEFC /* umnica.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1252D422A25000DFEFC /* umnica.mp3 */; };
+		501DD12F2D422A25000DFEFC /* green.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1202D422A25000DFEFC /* green.mp3 */; };
+		501DD1302D422A25000DFEFC /* molodec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1212D422A25000DFEFC /* molodec.mp3 */; };
+		501DD1312D422A25000DFEFC /* yellow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1272D422A25000DFEFC /* yellow.mp3 */; };
+		501DD1322D422A25000DFEFC /* black.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11E2D422A25000DFEFC /* black.mp3 */; };
+		501DD1332D422A25000DFEFC /* orange.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1222D422A25000DFEFC /* orange.mp3 */; };
+		501DD1342D422A25000DFEFC /* blue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11F2D422A25000DFEFC /* blue.mp3 */; };
+		501DD1352D422A25000DFEFC /* pravilno.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1232D422A25000DFEFC /* pravilno.mp3 */; };
+		501DD1362D422A25000DFEFC /* red.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1242D422A25000DFEFC /* red.mp3 */; };
+		501DD1372D422A25000DFEFC /* white.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1262D422A25000DFEFC /* white.mp3 */; };
+		501DD1382D422A25000DFEFC /* umnica.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1252D422A25000DFEFC /* umnica.mp3 */; };
+		501DD1392D422A25000DFEFC /* green.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1202D422A25000DFEFC /* green.mp3 */; };
+		501DD13A2D422A25000DFEFC /* molodec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1212D422A25000DFEFC /* molodec.mp3 */; };
+		501DD13B2D422A25000DFEFC /* yellow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1272D422A25000DFEFC /* yellow.mp3 */; };
+		501DD13C2D422A25000DFEFC /* black.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11E2D422A25000DFEFC /* black.mp3 */; };
+		501DD13D2D422A25000DFEFC /* orange.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1222D422A25000DFEFC /* orange.mp3 */; };
+		501DD13E2D422A25000DFEFC /* blue.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11F2D422A25000DFEFC /* blue.mp3 */; };
+		501DD13F2D422A25000DFEFC /* pravilno.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1232D422A25000DFEFC /* pravilno.mp3 */; };
+		501DD1402D422A25000DFEFC /* red.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1242D422A25000DFEFC /* red.mp3 */; };
+		501DD1412D422A25000DFEFC /* white.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1262D422A25000DFEFC /* white.mp3 */; };
+		501DD1422D422A25000DFEFC /* umnica.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1252D422A25000DFEFC /* umnica.mp3 */; };
+		501DD1432D422A25000DFEFC /* green.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1202D422A25000DFEFC /* green.mp3 */; };
+		501DD1442D422A25000DFEFC /* molodec.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1212D422A25000DFEFC /* molodec.mp3 */; };
+		501DD1452D422A25000DFEFC /* yellow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD1272D422A25000DFEFC /* yellow.mp3 */; };
+		501DD1462D422A25000DFEFC /* black.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 501DD11E2D422A25000DFEFC /* black.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		503070A32D3FBFD900CA9DED /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 503070892D3FBFD400CA9DED /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 503070902D3FBFD400CA9DED;
+			remoteInfo = "color-race-ios";
+		};
+		503070AD2D3FBFD900CA9DED /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 503070892D3FBFD400CA9DED /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 503070902D3FBFD400CA9DED;
+			remoteInfo = "color-race-ios";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		501DD11E2D422A25000DFEFC /* black.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = black.mp3; sourceTree = "<group>"; };
+		501DD11F2D422A25000DFEFC /* blue.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = blue.mp3; sourceTree = "<group>"; };
+		501DD1202D422A25000DFEFC /* green.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = green.mp3; sourceTree = "<group>"; };
+		501DD1212D422A25000DFEFC /* molodec.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = molodec.mp3; sourceTree = "<group>"; };
+		501DD1222D422A25000DFEFC /* orange.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = orange.mp3; sourceTree = "<group>"; };
+		501DD1232D422A25000DFEFC /* pravilno.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pravilno.mp3; sourceTree = "<group>"; };
+		501DD1242D422A25000DFEFC /* red.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = red.mp3; sourceTree = "<group>"; };
+		501DD1252D422A25000DFEFC /* umnica.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = umnica.mp3; sourceTree = "<group>"; };
+		501DD1262D422A25000DFEFC /* white.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = white.mp3; sourceTree = "<group>"; };
+		501DD1272D422A25000DFEFC /* yellow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yellow.mp3; sourceTree = "<group>"; };
+		503070912D3FBFD400CA9DED /* color-race-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "color-race-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		503070A22D3FBFD900CA9DED /* color-race-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "color-race-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		503070AC2D3FBFD900CA9DED /* color-race-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "color-race-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		503070932D3FBFD400CA9DED /* color-race-ios */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "color-race-ios";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5030708E2D3FBFD400CA9DED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5030709F2D3FBFD900CA9DED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		503070A92D3FBFD900CA9DED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		501DD1282D422A25000DFEFC /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+				501DD11E2D422A25000DFEFC /* black.mp3 */,
+				501DD11F2D422A25000DFEFC /* blue.mp3 */,
+				501DD1202D422A25000DFEFC /* green.mp3 */,
+				501DD1212D422A25000DFEFC /* molodec.mp3 */,
+				501DD1222D422A25000DFEFC /* orange.mp3 */,
+				501DD1232D422A25000DFEFC /* pravilno.mp3 */,
+				501DD1242D422A25000DFEFC /* red.mp3 */,
+				501DD1252D422A25000DFEFC /* umnica.mp3 */,
+				501DD1262D422A25000DFEFC /* white.mp3 */,
+				501DD1272D422A25000DFEFC /* yellow.mp3 */,
+			);
+			path = Sound;
+			sourceTree = "<group>";
+		};
+		503070882D3FBFD400CA9DED = {
+			isa = PBXGroup;
+			children = (
+				501DD1282D422A25000DFEFC /* Sound */,
+				503070932D3FBFD400CA9DED /* color-race-ios */,
+				503070922D3FBFD400CA9DED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		503070922D3FBFD400CA9DED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				503070912D3FBFD400CA9DED /* color-race-ios.app */,
+				503070A22D3FBFD900CA9DED /* color-race-iosTests.xctest */,
+				503070AC2D3FBFD900CA9DED /* color-race-iosUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		503070902D3FBFD400CA9DED /* color-race-ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 503070B62D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-ios" */;
+			buildPhases = (
+				5030708D2D3FBFD400CA9DED /* Sources */,
+				5030708E2D3FBFD400CA9DED /* Frameworks */,
+				5030708F2D3FBFD400CA9DED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				503070932D3FBFD400CA9DED /* color-race-ios */,
+			);
+			name = "color-race-ios";
+			packageProductDependencies = (
+			);
+			productName = "color-race-ios";
+			productReference = 503070912D3FBFD400CA9DED /* color-race-ios.app */;
+			productType = "com.apple.product-type.application";
+		};
+		503070A12D3FBFD900CA9DED /* color-race-iosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 503070B92D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-iosTests" */;
+			buildPhases = (
+				5030709E2D3FBFD900CA9DED /* Sources */,
+				5030709F2D3FBFD900CA9DED /* Frameworks */,
+				503070A02D3FBFD900CA9DED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				503070A42D3FBFD900CA9DED /* PBXTargetDependency */,
+			);
+			name = "color-race-iosTests";
+			packageProductDependencies = (
+			);
+			productName = "color-race-iosTests";
+			productReference = 503070A22D3FBFD900CA9DED /* color-race-iosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		503070AB2D3FBFD900CA9DED /* color-race-iosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 503070BC2D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-iosUITests" */;
+			buildPhases = (
+				503070A82D3FBFD900CA9DED /* Sources */,
+				503070A92D3FBFD900CA9DED /* Frameworks */,
+				503070AA2D3FBFD900CA9DED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				503070AE2D3FBFD900CA9DED /* PBXTargetDependency */,
+			);
+			name = "color-race-iosUITests";
+			packageProductDependencies = (
+			);
+			productName = "color-race-iosUITests";
+			productReference = 503070AC2D3FBFD900CA9DED /* color-race-iosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		503070892D3FBFD400CA9DED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					503070902D3FBFD400CA9DED = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					503070A12D3FBFD900CA9DED = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 503070902D3FBFD400CA9DED;
+					};
+					503070AB2D3FBFD900CA9DED = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 503070902D3FBFD400CA9DED;
+					};
+				};
+			};
+			buildConfigurationList = 5030708C2D3FBFD400CA9DED /* Build configuration list for PBXProject "color-race-ios" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 503070882D3FBFD400CA9DED;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 503070922D3FBFD400CA9DED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				503070902D3FBFD400CA9DED /* color-race-ios */,
+				503070A12D3FBFD900CA9DED /* color-race-iosTests */,
+				503070AB2D3FBFD900CA9DED /* color-race-iosUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5030708F2D3FBFD400CA9DED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				501DD1332D422A25000DFEFC /* orange.mp3 in Resources */,
+				501DD1342D422A25000DFEFC /* blue.mp3 in Resources */,
+				501DD1352D422A25000DFEFC /* pravilno.mp3 in Resources */,
+				501DD1362D422A25000DFEFC /* red.mp3 in Resources */,
+				501DD1372D422A25000DFEFC /* white.mp3 in Resources */,
+				501DD1382D422A25000DFEFC /* umnica.mp3 in Resources */,
+				501DD1392D422A25000DFEFC /* green.mp3 in Resources */,
+				501DD13A2D422A25000DFEFC /* molodec.mp3 in Resources */,
+				501DD13B2D422A25000DFEFC /* yellow.mp3 in Resources */,
+				501DD13C2D422A25000DFEFC /* black.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		503070A02D3FBFD900CA9DED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				501DD13D2D422A25000DFEFC /* orange.mp3 in Resources */,
+				501DD13E2D422A25000DFEFC /* blue.mp3 in Resources */,
+				501DD13F2D422A25000DFEFC /* pravilno.mp3 in Resources */,
+				501DD1402D422A25000DFEFC /* red.mp3 in Resources */,
+				501DD1412D422A25000DFEFC /* white.mp3 in Resources */,
+				501DD1422D422A25000DFEFC /* umnica.mp3 in Resources */,
+				501DD1432D422A25000DFEFC /* green.mp3 in Resources */,
+				501DD1442D422A25000DFEFC /* molodec.mp3 in Resources */,
+				501DD1452D422A25000DFEFC /* yellow.mp3 in Resources */,
+				501DD1462D422A25000DFEFC /* black.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		503070AA2D3FBFD900CA9DED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				501DD1292D422A25000DFEFC /* orange.mp3 in Resources */,
+				501DD12A2D422A25000DFEFC /* blue.mp3 in Resources */,
+				501DD12B2D422A25000DFEFC /* pravilno.mp3 in Resources */,
+				501DD12C2D422A25000DFEFC /* red.mp3 in Resources */,
+				501DD12D2D422A25000DFEFC /* white.mp3 in Resources */,
+				501DD12E2D422A25000DFEFC /* umnica.mp3 in Resources */,
+				501DD12F2D422A25000DFEFC /* green.mp3 in Resources */,
+				501DD1302D422A25000DFEFC /* molodec.mp3 in Resources */,
+				501DD1312D422A25000DFEFC /* yellow.mp3 in Resources */,
+				501DD1322D422A25000DFEFC /* black.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5030708D2D3FBFD400CA9DED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5030709E2D3FBFD900CA9DED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		503070A82D3FBFD900CA9DED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		503070A42D3FBFD900CA9DED /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 503070902D3FBFD400CA9DED /* color-race-ios */;
+			targetProxy = 503070A32D3FBFD900CA9DED /* PBXContainerItemProxy */;
+		};
+		503070AE2D3FBFD900CA9DED /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 503070902D3FBFD400CA9DED /* color-race-ios */;
+			targetProxy = 503070AD2D3FBFD900CA9DED /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		503070B42D3FBFD900CA9DED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		503070B52D3FBFD900CA9DED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		503070B72D3FBFD900CA9DED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "color-race-ios/color_race_ios.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"color-race-ios/Preview Content\"";
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		503070B82D3FBFD900CA9DED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "color-race-ios/color_race_ios.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"color-race-ios/Preview Content\"";
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		503070BA2D3FBFD900CA9DED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/color-race-ios.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/color-race-ios";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		503070BB2D3FBFD900CA9DED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/color-race-ios.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/color-race-ios";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		503070BD2D3FBFD900CA9DED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_TARGET_NAME = "color-race-ios";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		503070BE2D3FBFD900CA9DED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = D6CHL7YK97;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.7;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "yuliya.color-race-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_TARGET_NAME = "color-race-ios";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5030708C2D3FBFD400CA9DED /* Build configuration list for PBXProject "color-race-ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				503070B42D3FBFD900CA9DED /* Debug */,
+				503070B52D3FBFD900CA9DED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		503070B62D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				503070B72D3FBFD900CA9DED /* Debug */,
+				503070B82D3FBFD900CA9DED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		503070B92D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-iosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				503070BA2D3FBFD900CA9DED /* Debug */,
+				503070BB2D3FBFD900CA9DED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		503070BC2D3FBFD900CA9DED /* Build configuration list for PBXNativeTarget "color-race-iosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				503070BD2D3FBFD900CA9DED /* Debug */,
+				503070BE2D3FBFD900CA9DED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 503070892D3FBFD400CA9DED /* Project object */;
+}
